@@ -10,3 +10,4 @@ if (require.main === module) {
   const p = 1000, r = 0.05, n = 5;
   console.log();
 }
+// Added a note about compound interest
